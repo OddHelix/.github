@@ -1,6 +1,6 @@
 # What We Are
 
-OddHelix is an organization started by @dogue as a place to collect certain projects. You may think of it as sort of like a software company, except that it doesn't have any commercial prospects. We are hobby hackers.
+OddHelix is an organization started by [dogue](https://github.com/dogue) as a place to collect certain projects. You may think of it as sort of like a software company, except that it doesn't have any commercial prospects. We are hobby hackers.
 
 # Projects
 
